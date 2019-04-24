@@ -12,6 +12,7 @@ class Triangle
      begin  
       raise TriangleError
       puts error.message
+    end 
     
     end 
   end     #def 
