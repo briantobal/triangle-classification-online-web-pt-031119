@@ -10,5 +10,6 @@ class Triangle
   def kind      
   end     #def 
   
-  
+  class TriangleError < StandardError
+end 
 end
