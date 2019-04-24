@@ -8,7 +8,7 @@ class Triangle
   end     #def 
   
   def kind  
-    if (@s1 + @s2) <= @s3 ||
+    if (@s1 + @s2) <= @s3 || (@s2 + @s3) <= @s1
   end     #def 
   
   class TriangleError < StandardError
