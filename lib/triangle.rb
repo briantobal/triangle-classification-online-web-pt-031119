@@ -21,7 +21,8 @@ class Triangle
     elsif s1 == s2 || s1 == s3 || s2 == s3
       self.kind = :isosceles
       
-    
+    elsif s1 == s2 || s1 == s3 || s2 == s3
+      self.kind = :scalene
     
     end 
   end     #def 
