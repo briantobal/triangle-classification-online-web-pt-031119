@@ -14,6 +14,7 @@ class Triangle
       puts error.message
     end 
     
+  elseif 
     
     end 
   end     #def 
