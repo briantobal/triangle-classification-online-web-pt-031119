@@ -9,4 +9,6 @@ class Triangle
   
   def kind      
   end     #def 
+  
+  
 end
